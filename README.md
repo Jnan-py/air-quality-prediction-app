@@ -18,8 +18,6 @@ This is a Streamlit-based web application designed to predict air quality (speci
    cd air-quality-prediction-app
    ```
 
-````
-
 2. **Create a Virtual Environment (Recommended):**
 
    ```bash
@@ -70,4 +68,3 @@ air-quality-prediction-app/
 - **Matplotlib & Seaborn** for data visualization.
 - **Scikit-Learn** for machine learning (model training, evaluation, and imputation).
 - **streamlit-option-menu** for sidebar navigation.
-````
